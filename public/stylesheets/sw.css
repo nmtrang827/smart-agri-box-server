@@ -1,0 +1,15 @@
+.text-justify {
+  text-align: justify;
+}
+
+.title {
+  background: linear-gradient(to right, #43cea2, #185a9d); 
+  opacity: 0.8;
+  padding-top: 30px; 
+  padding-bottom: 30px;
+}
+
+header {
+  color: white;
+  letter-spacing: 4px; 
+}
